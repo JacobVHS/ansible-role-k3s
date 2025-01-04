@@ -75,7 +75,7 @@ Use the role in a playbook:
 - name: Setup K3s Cluster
   hosts: all
   roles:
-    - k3s_setup
+    - JacobVHS.ansible-role-k3s
 ```
 
 ---
